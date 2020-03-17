@@ -14,14 +14,14 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 . Cheap & Accessible<BR><BR>
 
 ### ● Main Feature
-- 1. Interactive Tutorial <BR>
+>- 1. Interactive Tutorial <BR>
   : User can learn gaming method easily through interactive and detailed tutorial. <BR>
-- 2. Easy to Use<BR>
+>- 2. Easy to Use<BR>
   : Users can experience various kind of quests(interaction) with only 2 simple interaction technique-click of the items and collide with the items. <BR>
   An object with bubblese is for clicking and an object with pink particles is for collision. <BR>
-- 3. Various Ending Story<BR>
+?- 3. Various Ending Story<BR>
   : User can try different combinations with 8 items and get various results. Therefore, player can play continuously this game many times to get the result. <BR>
-- 4. Fun and Immersive <BR>
+>- 4. Fun and Immersive <BR>
   : interesting intro stories, narration, peaceful background music<BR> sound of swimming, air bubbles, and visual effects of water moving<BR><BR>
 > _**Function Features**_ <BR>
 >> - Showing an error message when user attempts to misbehave. Tells the user how to recover.<BR>
