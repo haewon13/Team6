@@ -3,12 +3,12 @@
 
 Table of Contents
 =================
-- [● Project Description](#--project-description)
-- [● Domain & Platform](#--domain---platform)
-- [● Main Feature](#--main-feature)
-- [● StoryBoard_Scene Transition](#--storyboard-scene-transition)
-- [● Demo Video](#--demo-video)
-
+- [Project Description](#--project-description)
+- [Domain & Platform](#--domain---platform)
+- [Main Feature](#--main-feature)
+- [StoryBoard_Scene Transition](#--storyboard-scene-transition)
+- [Demo Video](#--demo-video)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
  <BR><BR>
