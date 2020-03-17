@@ -3,21 +3,20 @@
 
 Table of Contents
 =================
-- [Project Description](#--project-description)
-- [Domain & Platform](#--domain---platform)
-- [Main Feature](#--main-feature)
-- [StoryBoard_Scene Transition](#--storyboard-scene-transition)
-- [Demo Video](#--demo-video)
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [Project Description](#project-description)
+- [Domain & Platform](#domain---platform)
+- [Main Feature](#main-feature)
+- [StoryBoard_Scene Transition](#storyboard-scene-transition)
+- [Demo Video](#demo-video)
 
 
  <BR><BR>
  
-### ● Project Description
+### Project Description
 It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
 
 
-### ● Domain & Platform
+### Domain & Platform
 - Virtual Reality(VR)<BR>
 . Immersive experience<BR>
 . User in virtual world(under the sea)-> Not possible in AR, MR or 2D domain<BR>
@@ -26,7 +25,7 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 . Cheap & Accessible<BR><BR>
 
 
-### ● Main Feature
+### Main Feature
 >- 1. Interactive Tutorial <BR>
   : User can learn gaming method easily through interactive and detailed tutorial. <BR>
 >- 2. Easy to Use<BR>
@@ -44,12 +43,12 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 >> - the crab object keeps chasing after the user, carrying pause, map and bag button to make a scene change at any time. <BR><BR>
 <BR>
   
-### ● StoryBoard_Scene Transition
+### StoryBoard_Scene Transition
 <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/scene_transition.jpg" width=100%>
 
 <BR><BR>
 
-### ● Demo Video
+### Demo Video
  `<link>`
  [**최종 시연영상**](https://www.youtube.com/watch?v=r5W0YY6zpeg) (Youtube uploaded)
 <BR><BR>
