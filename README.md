@@ -5,6 +5,16 @@
 It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
 
 
+### Table of Contents
+=================
+
+  * [Domain & Platform](#domain_&_platform)
+  * [Main Feature](#main_feature)
+  * [StoryBoard_Scene Transition](#storyboad_scene_transition)
+  * [Demo Video](#demo_video)
+ 
+ <BR><BR>
+
 ### ● Domain & Platform
 - Virtual Reality(VR)<BR>
 . Immersive experience<BR>
@@ -12,6 +22,7 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 - Google Cardboard<BR>
 . Target User : Anyone (Child ~ Adult)<BR>
 . Cheap & Accessible<BR><BR>
+
 
 ### ● Main Feature
 >- 1. Interactive Tutorial <BR>
