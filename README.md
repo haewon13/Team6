@@ -32,7 +32,7 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 <BR>
   
 ### ● StoryBoard_Scene Transition
-<img src="https://github.com/haewon13/Unity3D_VRGame-SuperStar/blob/master/scene_transition.jpg" width=100%>
+<img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/scene_transition.jpg" width=100%>
 
 <BR><BR>
 
@@ -40,6 +40,6 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
  `<link>`
  [**최종 시연영상**](https://www.youtube.com/watch?v=r5W0YY6zpeg) (Youtube uploaded)
 <BR><BR>
-  <img src="" width="400px" height="250px">
+  <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene1.PNG" width="450px">
   <BR>
-
+<img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene2.PNG" width="450px">
