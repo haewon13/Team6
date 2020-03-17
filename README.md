@@ -4,8 +4,7 @@
 ### ● Project Description
 It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
 
-
-### Table of Contents
+Table of Contents
 =================
 
   * [Domain & Platform](#domain_&_platform)
