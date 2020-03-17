@@ -38,8 +38,8 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 
 ### ● Demo Video
  `<link>`
- **최종 시연영상** <https://www.youtube.com/watch?v=r5W0YY6zpeg>
-<BR>
+ [**최종 시연영상**](https://www.youtube.com/watch?v=r5W0YY6zpeg) (Youtube uploaded)
+<BR><BR>
   <img src="" width="400px" height="250px">
   <BR>
 
