@@ -40,6 +40,10 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
  `<link>`
  [**최종 시연영상**](https://www.youtube.com/watch?v=r5W0YY6zpeg) (Youtube uploaded)
 <BR><BR>
+  <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene3.PNG" width="450px">
+  <BR>
+    <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene4.PNG" width="450px">
+  <BR>
   <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene1.PNG" width="450px">
   <BR>
 <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/game_scene2.PNG" width="450px">
