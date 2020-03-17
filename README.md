@@ -6,7 +6,7 @@ Table of Contents
 - [Project Description](#project-description)
 - [Domain & Platform](#domain---platform)
 - [Main Feature](#main-feature)
-- [StoryBoard_Scene Transition](#storyboard-scene-transition)
+- [StoryBoard Scene Transition](#storyboard-scene-transition)
 - [Demo Video](#demo-video)
 
 
@@ -43,7 +43,7 @@ It’s a game that Mermaid tries to make a magic potion that changes her into hu
 >> - the crab object keeps chasing after the user, carrying pause, map and bag button to make a scene change at any time. <BR><BR>
 <BR>
   
-### StoryBoard_Scene Transition
+### StoryBoard Scene Transition
 <img src="https://github.com/haewon13/Unity3D_VRGame/blob/master/scene_transition.jpg" width=100%>
 
 <BR><BR>
