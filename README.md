@@ -1,16 +1,16 @@
 # UnityProject _VR Game "SuperStar"
 <h2> VR Game using GoogleCardboard </h2>
 
-### ● Project Description
-It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
-
 Table of Contents
 =================
+ * [Project Description](#project_description)
+ * [Domain & Platform](#domain_&_platform)
+ * [Main Feature](#main_feature)
+ * [StoryBoard_Scene Transition](#storyboad_scene_transition)
+ * [Demo Video](#demo_video)
 
-  * [Domain & Platform](#domain_&_platform)
-  * [Main Feature](#main_feature)
-  * [StoryBoard_Scene Transition](#storyboad_scene_transition)
-  * [Demo Video](#demo_video)
+### ● Project Description
+It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
  
  <BR><BR>
 
