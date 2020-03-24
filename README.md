@@ -3,7 +3,6 @@
 <BR><BR>
  
 ## Table of Contents
-=================
 - [Project Description](#project-description)
 - [Domain & Platform](#domain---platform)
 - [Main Feature](#main-feature)
