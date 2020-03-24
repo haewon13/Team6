@@ -1,6 +1,7 @@
 # UnityProject _VR Game "SuperStar"
 <h2> VR Game using GoogleCardboard </h2>
-
+<BR><BR>
+ 
 ## Table of Contents
 =================
 - [Project Description](#project-description)
