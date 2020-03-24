@@ -15,15 +15,15 @@
 ### Project Description
 It’s a game that Mermaid tries to make a magic potion that changes her into human to realize her dream(to be a superstar). <BR><BR>
 ***
- <
+ 
 
 ### Domain & Platform
-- Virtual Reality(VR)<BR>
-. Immersive experience<BR>
-. User in virtual world(under the sea)-> Not possible in AR, MR or 2D domain<BR>
-- Google Cardboard<BR>
-. Target User : Anyone (Child ~ Adult)<BR>
-. Cheap & Accessible<BR><BR>
+>- Virtual Reality(VR)<BR>
+>. Immersive experience<BR>
+>. User in virtual world(under the sea)-> Not possible in AR, MR or 2D domain<BR>
+>- Google Cardboard<BR>
+>. Target User : Anyone (Child ~ Adult)<BR>
+>. Cheap & Accessible<BR><BR>
 
 
 ### Main Feature
